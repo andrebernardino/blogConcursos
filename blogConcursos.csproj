@@ -68,7 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="imagens\comentarios.png" />
-    <Content Include="index.html" />
+    <Content Include="index_prova.html" />
+    <Content Include="index_edital.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
